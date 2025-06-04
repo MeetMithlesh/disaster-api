@@ -22,5 +22,5 @@ app.include_router(gdacs_nasa_router)
 app.include_router(eonet_router)
 
 @app.get("/")
-print("Welcome to our API's HomePage\nThese are the api routes we provide :/n [/disaster-news , /eonet-events , /gdacs-nasa , /google-news , /noaa-alerts , /usgs-earthquakes , /weather?city=ENTER_CITY_HERE]")
-
+async def home():
+    return JSONResponse(content={"message": "Welcome to the Disaster News API. Use the provided routes to access various disaster-related data.[/disaster-news , /eonet-events , /gdacs-nasa , /google-news , /noaa-alerts , /usgs-earthquakes , /weather?city=ENTER_CITY_HERE]"})
