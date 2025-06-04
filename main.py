@@ -21,11 +21,6 @@ app.include_router(noaa_router)
 app.include_router(gdacs_nasa_router)
 app.include_router(eonet_router)
 
-@app.get("/disaster-news")
-async def get_disaster_news():
-    try:
-        # Call the method to retrieve disaster news
-        news_data = analyzer.get_disaster_news()  # Modify this line to return data instead of starting monitoring
-        return JSONResponse(content=news_data)
-    except Exception as e:
-        return JSONResponse(status_code=500, content={"message": str(e)})
+@app.get("/")
+print("Welcome to our API's HomePage\nThese are the api routes we provide :/n [/disaster-news , /eonet-events , /gdacs-nasa , /google-news , /noaa-alerts , /usgs-earthquakes , /weather?city=ENTER_CITY_HERE]")
+
