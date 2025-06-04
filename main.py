@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from analyzer import DisasterNewsAnalyzer
 from analyzer import router as analyzer_router
 from google_news import router as google_news_router
@@ -11,7 +12,21 @@ from eonet import router as eonet_router
 
 app = FastAPI()
 
-analyzer = DisasterNewsAnalyzer()
+
+app = FastAPI()
+
+origins = [
+    "*",
+    "http://localhost:3000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(analyzer_router)
 app.include_router(google_news_router)
