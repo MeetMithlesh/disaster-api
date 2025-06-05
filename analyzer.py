@@ -123,11 +123,11 @@ class DisasterNewsAnalyzer:
                 for entry in feed.entries:
                     full_text = f"{entry.get('title', '')} {entry.get('description', '')}"
                     analysis = self.analyze_text(full_text)
-    
+
                     # --- Extract latitude and longitude if present ---
                     latitude = None
                     longitude = None
-    
+
                     # Common georss/geo fields
                     if 'geo_lat' in entry and 'geo_long' in entry:
                         latitude = entry.get('geo_lat')
@@ -145,14 +145,14 @@ class DisasterNewsAnalyzer:
                         if coords and isinstance(coords, (list, tuple)) and len(coords) >= 2:
                             longitude = coords[0]
                             latitude = coords[1]
-    
+
                     if analysis['is_disaster']:
                         result = {
-                            'timestamp': str(datetime.now()),
+                            # 'fetched_time': str(datetime.now()),
                             'title': entry.get('title', ''),
                             'description': entry.get('description', ''),
                             'link': entry.get('link', ''),
-                            'published': entry.get('published', ''),
+                            'timestamp': entry.get('published', ''),
                             'source': feed_url,
                             'latitude': latitude,
                             'longitude': longitude,
