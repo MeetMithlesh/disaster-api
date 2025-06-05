@@ -2,6 +2,7 @@ fastapi
 uvicorn
 feedparser
 beautifulsoup4
+lxml
 requests
 pydantic
 pandas
