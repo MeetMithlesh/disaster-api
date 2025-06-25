@@ -1,0 +1,397 @@
+[
+  {
+    "name": "India - Haryana - Gurugram (GUR)",
+    "lat": 28.49814,
+    "lon": 77.088954
+  },
+  {
+    "name": "Taiwan - Taipei - Taipei City (TPC)",
+    "lat": 25.06337782654824,
+    "lon": 121.61562191713891
+  },
+  {
+    "name": "Taiwan - Taipei City - Taipei (TNN)",
+    "lat": 25.058357319597462,
+    "lon": 121.61871051285306
+  },
+  {
+    "name": "Taiwan - Taipei - Taipei (TNN)",
+    "lat": 25.060054033681368,
+    "lon": 121.61278923973211
+  },
+  {
+    "name": "New Zealand - Auckland - Auckland (ANZ)",
+    "lat": -36.843598193140025,
+    "lon": 174.76757163827673
+  },
+  {
+    "name": "Singapore - Singapore (SOH)",
+    "lat": 1.2830961099471823,
+    "lon": 103.80492975141392
+  },
+  {
+    "name": "Singapore - Singapore (SGP)",
+    "lat": 1.2907927868035287,
+    "lon": 103.80709771260024
+  },
+  {
+    "name": "Australia - Western Australia - Perth (PAU)",
+    "lat": -31.946904003128477,
+    "lon": 115.85630721498866
+  },
+  {
+    "name": "Australia - Victoria - Forest Hill (MRN)",
+    "lat": -37.85102689312534,
+    "lon": 145.16670881026366
+  },
+  {
+    "name": "Australia - Victoria - Melbourne (MCV)",
+    "lat": -37.81173071709738,
+    "lon": 144.96246548563144
+  },
+  {
+    "name": "Republic of Korea - Seoul - Seoul (KOR)",
+    "lat": 37.528666962604085,
+    "lon": 126.9234702394235
+  },
+  {
+    "name": "Australia - New South Wales - Sydney (KOA)",
+    "lat": -32.93257140015757,
+    "lon": 151.70991822592842
+  },
+  {
+    "name": "Vietnam - Hanoi - Hanoi (HVM)",
+    "lat": 21.03882268340656,
+    "lon": 105.81372075765934
+  },
+  {
+    "name": "Singapore - Singapore (DRD)",
+    "lat": 1.2880738743558908,
+    "lon": 103.80805605805618
+  },
+  {
+    "name": "Australia - Canberra - Canberra (CAU)",
+    "lat": -35.27279881297676,
+    "lon": 149.12537668645285
+  },
+  {
+    "name": "Australia - Sydney - North Sydney (NSA)",
+    "lat": -33.835635426648054,
+    "lon": 151.205553281763
+  },
+  {
+    "name": "Japan - Osaka - Osaka (OSK)",
+    "lat": 34.68614267915386,
+    "lon": 135.50013045875315
+  },
+  {
+    "name": "Thailand - Bangkok - Bangkok (BKT)",
+    "lat": 13.739087338818779,
+    "lon": 100.52971662632939
+  },
+  {
+    "name": "Japan - Ota-ku - Ota-ku (JAO)",
+    "lat": 35.58444297550259,
+    "lon": 139.74857499143963
+  },
+  {
+    "name": "Japan - Tokyo - Tokyo (JAT)",
+    "lat": 35.63753322978506,
+    "lon": 139.74369199397412
+  },
+  {
+    "name": "China - Beijing - Beijing (BJN)",
+    "lat": 39.99952560841134,
+    "lon": 116.48193659591453
+  },
+  {
+    "name": "China - Guangdong - Guangzhou (CGZ)",
+    "lat": 23.135215136376786,
+    "lon": 113.2646991760983
+  },
+  {
+    "name": "China - Sichuan -\u00a0ChengDu (CHD)",
+    "lat": 30.669183480382177,
+    "lon": 104.07965280649985
+  },
+  {
+    "name": "China - Zhejiang -\u00a0Hangzhou (CHZ)",
+    "lat": 30.2571605925026,
+    "lon": 120.14230946673537
+  },
+  {
+    "name": "JiNan - Shandong - JiNan (CJN)",
+    "lat": 36.67554974286281,
+    "lon": 117.02767304342024
+  },
+  {
+    "name": "China - Jiangsu - Nanjing (CNJ)",
+    "lat": 32.04805009927258,
+    "lon": 118.78614618704462
+  },
+  {
+    "name": "China -\u00a0Zhongqing -\u00a0Chongqing (CQP)",
+    "lat": 29.610915680335527,
+    "lon": 106.37388605437141
+  },
+  {
+    "name": "China - Wuhan - Wuhan (CWH)",
+    "lat": 30.609700135897356,
+    "lon": 114.31136502237717
+  },
+  {
+    "name": "China - Shanxi - Xian (CXI)",
+    "lat": 37.57227521983779,
+    "lon": 112.29513944273728
+  },
+  {
+    "name": "China - Guangdong - Shenzhen (SHC)",
+    "lat": 22.54775383498997,
+    "lon": 114.06058580311765
+  },
+  {
+    "name": "United Arab Emirates - Dubai - Dubai (DIC)",
+    "lat": 25.094429553735026,
+    "lon": 55.158700608698304
+  },
+  {
+    "name": "Bentonville, AR",
+    "lat": 36.34682,
+    "lon": -94.190992
+  },
+  {
+    "name": "Westminster, CO",
+    "lat": 39.916886,
+    "lon": -105.008385
+  },
+  {
+    "name": "Rio Rancho, NM",
+    "lat": 35.311439,
+    "lon": -106.688925
+  },
+  {
+    "name": "Washington, DC",
+    "lat": 38.896332,
+    "lon": -77.02932
+  },
+  {
+    "name": "Colorado Springs (CDH)",
+    "lat": 38.878308,
+    "lon": -104.83959
+  },
+  {
+    "name": "Spring, TX",
+    "lat": 38.896332,
+    "lon": -77.02932
+  },
+  {
+    "name": "Corvallis, OR",
+    "lat": 44.5840866,
+    "lon": -123.2424026
+  },
+  {
+    "name": "Austin, TX",
+    "lat": 38.896332,
+    "lon": -77.02932
+  },
+  {
+    "name": "Alpharetta, GA",
+    "lat": 34.0874292,
+    "lon": -84.2650355
+  },
+  {
+    "name": "La Vergne, TN",
+    "lat": 35.9902318,
+    "lon": -86.5695431
+  },
+  {
+    "name": "Fountain Valley, CA",
+    "lat": 33.7071275,
+    "lon": -117.9301996
+  },
+  {
+    "name": "Socorro, TX",
+    "lat": 31.619836,
+    "lon": -106.258863
+  },
+  {
+    "name": "Burlington, MA",
+    "lat": 42.4904823,
+    "lon": -71.1983905
+  },
+  {
+    "name": "San Bernardino, CA",
+    "lat": 34.208966,
+    "lon": -117.391041
+  },
+  {
+    "name": "Fort Collins, CO",
+    "lat": 40.5264943,
+    "lon": -105.0126417
+  },
+  {
+    "name": "Herndon, VA",
+    "lat": 38.956182,
+    "lon": -77.415103
+  },
+  {
+    "name": "Boise, ID",
+    "lat": 43.6599336,
+    "lon": -116.3241006
+  },
+  {
+    "name": "Palo Alto, CA",
+    "lat": 37.3963476,
+    "lon": -122.1602009
+  },
+  {
+    "name": "Sandston, VA",
+    "lat": 37.485954,
+    "lon": -77.233909
+  },
+  {
+    "name": "Plainfield, IN",
+    "lat": 39.732258,
+    "lon": -86.361333
+  },
+  {
+    "name": "New York City (NNY)",
+    "lat": 40.7492643,
+    "lon": -73.9863281
+  },
+  {
+    "name": "San Diego, CA",
+    "lat": 33.0125838,
+    "lon": -117.0904691
+  },
+  {
+    "name": "Scotts Valley, CA",
+    "lat": 37.0639376,
+    "lon": -121.9996233
+  },
+  {
+    "name": "Nashville, TN",
+    "lat": 35.9874411,
+    "lon": -86.5833679
+  },
+  {
+    "name": "San Diego (SCA)",
+    "lat": 32.5733827,
+    "lon": -117.0034907
+  },
+  {
+    "name": "Santa Cruz, CA",
+    "lat": 36.9873688,
+    "lon": -122.0372814
+  },
+  {
+    "name": "Vancouver, WA",
+    "lat": 45.613702,
+    "lon": -122.5012542
+  },
+  {
+    "name": "Austin, TX (AUV)",
+    "lat": 30.2761272,
+    "lon": -97.817697
+  },
+  {
+    "name": "Washington, DC (DCA)",
+    "lat": 38.895484,
+    "lon": -77.029446
+  },
+  {
+    "name": "India - Haryana - Gurugram (GIN)",
+    "lat": 28.49814,
+    "lon": 77.088954
+  },
+  {
+    "name": "India - West Bengal - Kolkata (KIN)",
+    "lat": 22.5726459,
+    "lon": 88.3638953
+  },
+  {
+    "name": "India - Gujarat - Ahmedabad (IAH)",
+    "lat": 22.98209519496912,
+    "lon": 72.66878122709426
+  },
+  {
+    "name": "India - New Delhi - New Delhi (INE)",
+    "lat": 28.5079202,
+    "lon": 77.0909697
+  },
+  {
+    "name": "India - New Delhi - New Delhi (INN)",
+    "lat": 28.54722,
+    "lon": 77.25083
+  },
+  {
+    "name": "India - Haryana - Gurgaon (ING)",
+    "lat": 28.485747,
+    "lon": 77.064408
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (UNI)",
+    "lat": 19.007145612451524,
+    "lon": 72.82114873885895
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (MIN)",
+    "lat": 19.061814641927835,
+    "lon": 72.85153797999078
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (IRT)",
+    "lat": 19.178869677252667,
+    "lon": 72.85988809220291
+  },
+  {
+    "name": "India - Maharashtra - Pune (PNB)",
+    "lat": 18.561997821245043,
+    "lon": 73.77747568967469
+  },
+  {
+    "name": "India - Maharashtra - Pune (IPU)",
+    "lat": 18.551105305098112,
+    "lon": 73.90639847576755
+  },
+  {
+    "name": "India - Telangana - Hyderabad (HYI)",
+    "lat": 17.433406612135883,
+    "lon": 78.38798037057308
+  },
+  {
+    "name": "India - Tamil Nadu - Chennai (IOC)",
+    "lat": 13.017774763668564,
+    "lon": 80.2043239378189
+  },
+  {
+    "name": "India - Karnataka - Bangalore (SAU)",
+    "lat": 12.940382824986795,
+    "lon": 77.6103095977721
+  },
+  {
+    "name": "India - Karnataka - Bangalore (BEP)",
+    "lat": 12.979572864686022,
+    "lon": 77.65747069418757
+  },
+  {
+    "name": "India - Karnataka - Bangalore (BNG)",
+    "lat": 12.980598337996394,
+    "lon": 77.71117632117189
+  },
+  {
+    "name": "India - Karnataka - Bangalore (ECN)",
+    "lat": 12.97006953610146,
+    "lon": 77.71790695004113
+  },
+  {
+    "name": "India - Karnataka - Bangalore (PSR)",
+    "lat": 12.936039631141035,
+    "lon": 77.68040027484908
+  },
+  {
+    "name": "India - Karnataka - Bangalore (ECP)",
+    "lat": 12.846782981499583,
+    "lon": 77.66528295057107
+  }
+]
