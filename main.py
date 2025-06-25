@@ -9,6 +9,7 @@ from openweather import router as openweather_router
 from noaa import router as noaa_router
 from gdacs_nasa import router as gdacs_nasa_router
 from eonet import router as eonet_router
+from hpSites import router as hp_sites_router
 
 app = FastAPI()
 
@@ -35,6 +36,7 @@ app.include_router(openweather_router)
 app.include_router(noaa_router)
 app.include_router(gdacs_nasa_router)
 app.include_router(eonet_router)
+app.include_router(hp_sites_router)
 
 @app.get("/")
 async def home():
