@@ -1,0 +1,517 @@
+[
+    {
+        "name": "Accenture - Costa Rica - ACCN4",
+        "lat": "9.9875214",
+        "lon": "-84.1117127"
+    },
+    {
+        "name": "Wortham Tower - Houston Texas",
+        "lat": "29.7601566",
+        "lon": "-95.3947677"
+    },
+    {
+        "name": "Woodson Tower - Houston Texas -\u00a0 1000301",
+        "lat": "29.7607891",
+        "lon": "-95.3962662"
+    },
+    {
+        "name": "Woodland Hills (21650) California",
+        "lat": "34.1790159",
+        "lon": "-118.6011882"
+    },
+    {
+        "name": "Wilmington Delaware",
+        "lat": "39.7771093",
+        "lon": "-75.5114026"
+    },
+    {
+        "name": "VALIC Woodland Hills California - Suite 420",
+        "lat": "34.1790002",
+        "lon": "-118.5997655"
+    },
+    {
+        "name": "VALIC Williamsville New York",
+        "lat": "42.9596788",
+        "lon": "-78.754214"
+    },
+    {
+        "name": "VALIC Wenatchee Washington",
+        "lat": "47.5667578",
+        "lon": "-122.6337083"
+    },
+    {
+        "name": "VALIC Tampa Florida",
+        "lat": "27.951599",
+        "lon": "-82.5162795"
+    },
+    {
+        "name": "VALIC Financial Advisors Office",
+        "lat": "30.451543",
+        "lon": "-84.2791524"
+    },
+    {
+        "name": "VALIC St. Louis Missouri",
+        "lat": "38.6727602",
+        "lon": "-90.4553231"
+    },
+    {
+        "name": "VALIC Spokane Washington",
+        "lat": "47.6670686",
+        "lon": "-117.4133453"
+    },
+    {
+        "name": "VALIC Scottsdale Arizona",
+        "lat": "33.6247736",
+        "lon": "-111.8895031"
+    },
+    {
+        "name": "VALIC Salt Lake City Utah",
+        "lat": "40.7690556",
+        "lon": "-111.879155"
+    },
+    {
+        "name": "VALIC Roseville California",
+        "lat": "38.7451088",
+        "lon": "-121.2384023"
+    },
+    {
+        "name": "VALIC Ridgeland Mississippi",
+        "lat": "32.4282639",
+        "lon": "-90.1312695"
+    },
+    {
+        "name": "VALIC Renton Washington",
+        "lat": "47.4700727",
+        "lon": "-122.2242101"
+    },
+    {
+        "name": "VALIC Portland Oregon",
+        "lat": "45.5101933",
+        "lon": "-122.6778439"
+    },
+    {
+        "name": "VALIC Plano Texas",
+        "lat": "45.5100804",
+        "lon": "-122.6774716"
+    },
+    {
+        "name": "VALIC Pittsburgh Pennsylvania",
+        "lat": "40.4285787",
+        "lon": "-80.1256718"
+    },
+    {
+        "name": "VALIC Pensacola Florida",
+        "lat": "30.4089419",
+        "lon": "-87.2152966"
+    },
+    {
+        "name": "VALIC Orlando Florida",
+        "lat": "28.4847896",
+        "lon": "-81.4400859"
+    },
+    {
+        "name": "VALIC Oakland California",
+        "lat": "37.806789",
+        "lon": "-122.2656103"
+    },
+    {
+        "name": "VALIC North Chesterfield Virginia",
+        "lat": "37.5076729",
+        "lon": "-77.5972522"
+    },
+    {
+        "name": "VALIC Nashua New Hampshire",
+        "lat": "42.7857195",
+        "lon": "-71.5125724"
+    },
+    {
+        "name": "VALIC Mount Laurel New Jersey",
+        "lat": "39.9451484",
+        "lon": "-74.9529344"
+    },
+    {
+        "name": "VALIC Modesto California",
+        "lat": "37.6419534",
+        "lon": "-121.0022397"
+    },
+    {
+        "name": "VALIC Missoula Montana",
+        "lat": "46.8374649",
+        "lon": "-114.0338602"
+    },
+    {
+        "name": "VALIC Minneapolis Minnesota",
+        "lat": "44.8636575",
+        "lon": "-93.3249682"
+    },
+    {
+        "name": "VALIC Merrillville Indiana",
+        "lat": "41.4728571",
+        "lon": "-87.3345454"
+    },
+    {
+        "name": "VALIC Macon Georgia",
+        "lat": "32.8764362",
+        "lon": "-83.7597486"
+    },
+    {
+        "name": "VALIC Linthicum Heights Maryland",
+        "lat": "39.2032019",
+        "lon": "-76.682589"
+    },
+    {
+        "name": "VALIC Las Vegas, NV - 8985 South Eastern Ave.",
+        "lat": "36.0260924",
+        "lon": "-115.120841"
+    },
+    {
+        "name": "VALIC Lakewood Colorado",
+        "lat": "39.7129355",
+        "lon": "-105.1345755"
+    },
+    {
+        "name": "VALIC Jacksonville, FL - 10151 Deerwood Park Blvd",
+        "lat": "30.2422445",
+        "lon": "-81.5497987"
+    },
+    {
+        "name": "VALIC Independence Ohio",
+        "lat": "41.3952317",
+        "lon": "-81.6557158"
+    },
+    {
+        "name": "VALIC Honolulu Hawaii",
+        "lat": "21.3005046",
+        "lon": "-157.8620714"
+    },
+    {
+        "name": "VALIC Greensboro North Carolina",
+        "lat": "36.0760399",
+        "lon": "-79.9491994"
+    },
+    {
+        "name": "VALIC Gainesville Florida",
+        "lat": "29.673161",
+        "lon": "-82.3850293"
+    },
+    {
+        "name": "VALIC Fresno California",
+        "lat": "36.809922",
+        "lon": "-119.7618555"
+    },
+    {
+        "name": "VALIC Eugene Oregon",
+        "lat": "44.0474595",
+        "lon": "-123.0855297"
+    },
+    {
+        "name": "VALIC East Missoula Montana",
+        "lat": "46.8747608",
+        "lon": "-113.9939234"
+    },
+    {
+        "name": "VALIC Durham North Carolina",
+        "lat": "35.9650665",
+        "lon": "-78.9547126"
+    },
+    {
+        "name": "VALIC Columbus, OH - 8050 North High St.",
+        "lat": "40.1284939",
+        "lon": "-83.0152735"
+    },
+    {
+        "name": "VALIC Columbia South Carolina",
+        "lat": "34.018321",
+        "lon": "-80.9869396"
+    },
+    {
+        "name": "VALIC Chicago Illinois",
+        "lat": "41.8823072",
+        "lon": "-87.6403847"
+    },
+    {
+        "name": "VALIC Carmel Indiana",
+        "lat": "39.9664575",
+        "lon": "-86.1396393"
+    },
+    {
+        "name": "VALIC Bryan Texas",
+        "lat": "30.6609939",
+        "lon": "-96.328668"
+    },
+    {
+        "name": "VALIC Boca Raton Florida",
+        "lat": "26.362509",
+        "lon": "-80.121507"
+    },
+    {
+        "name": "VALIC Birmingham Alabama",
+        "lat": "33.4393189",
+        "lon": "-86.7225247"
+    },
+    {
+        "name": "VALIC Baton Rouge Louisiana",
+        "lat": "30.4127366",
+        "lon": "-91.0961451"
+    },
+    {
+        "name": "VALIC Austin Texas",
+        "lat": "30.3627626",
+        "lon": "-97.7506252"
+    },
+    {
+        "name": "VALIC Auburn Hills Michigan",
+        "lat": "42.6696232",
+        "lon": "-83.2396542"
+    },
+    {
+        "name": "VALIC Atlanta Georgia",
+        "lat": "33.9059968",
+        "lon": "-84.4592044"
+    },
+    {
+        "name": "VALIC Anchorage Alaska",
+        "lat": "61.2064341",
+        "lon": "-149.8868021"
+    },
+    {
+        "name": "San Francisco - Regus Suite",
+        "lat": "37.7865742",
+        "lon": "-122.4022315"
+    },
+    {
+        "name": "San Diego (CRBG Direct) California",
+        "lat": "32.8060332",
+        "lon": "-117.1214198"
+    },
+    {
+        "name": "Riviana Building - Houston Texas",
+        "lat": "29.760694",
+        "lon": "-95.3956107"
+    },
+    {
+        "name": "New York Regus Space - 250 Park Avenue",
+        "lat": "40.7551194",
+        "lon": "-73.9758369"
+    },
+    {
+        "name": "N Charleston, SC Regus Space - 4000 S Faber",
+        "lat": "32.8454215",
+        "lon": "-80.0198182"
+    },
+    {
+        "name": "Miami Regus Space",
+        "lat": "25.7835733",
+        "lon": "-80.2814413"
+    },
+    {
+        "name": "Los Angeles - 10880 Wilshire Blvd",
+        "lat": "34.0584585",
+        "lon": "-118.4428677"
+    },
+    {
+        "name": "Life Building - Houston Texas",
+        "lat": "29.7603888",
+        "lon": "-95.3894648"
+    },
+    {
+        "name": "Jersey City (30 Hudson) New Jersey",
+        "lat": "40.7131281",
+        "lon": "-74.0344231"
+    },
+    {
+        "name": "Brentwood Tennessee",
+        "lat": "36.0418642",
+        "lon": "-86.7699454"
+    },
+    {
+        "name": "Bozeman, MT Regus Space",
+        "lat": "45.6805435",
+        "lon": "-111.0376962"
+    },
+    {
+        "name": "Boise Regus Space",
+        "lat": "43.6183475",
+        "lon": "-116.2037424"
+    },
+    {
+        "name": "Bellevue, WA Regus Space - 10900 NE 4th St",
+        "lat": "47.6141114",
+        "lon": "-122.1948865"
+    },
+    {
+        "name": "Augusta, GA - 823 Broad St.",
+        "lat": "33.4758253",
+        "lon": "-81.9658189"
+    },
+    {
+        "name": "Atlanta Investments Regus Suite",
+        "lat": "33.8521259",
+        "lon": "-84.3663346"
+    },
+    {
+        "name": "America Tower - Houston Texas",
+        "lat": "29.7607367",
+        "lon": "-95.3975381"
+    },
+    {
+        "name": "Amarillo Western Campus - Amarillo Texas",
+        "lat": "35.2265548",
+        "lon": "-101.8832397"
+    },
+    {
+        "name": "880 Apollo St, El Segundo, CA",
+        "lat": "33.9030019",
+        "lon": "-118.3863047"
+    },
+    {
+        "name": "401 Merritt 7 Corporate Park, Norwalk, CT",
+        "lat": "41.1484315",
+        "lon": "-73.4269705"
+    },
+    {
+        "name": "SP Population - San Jose, CR",
+        "lat": "9.9280694",
+        "lon": "-84.0907246"
+    },
+    {
+        "name": "SP Population - Amarillo TX",
+        "lat": "35.2069816",
+        "lon": "-101.8320065"
+    },
+    {
+        "name": "Houston Employee Population South",
+        "lat": "29.663008",
+        "lon": "-95.2354902"
+    },
+    {
+        "name": "Houston Employee Population North",
+        "lat": "29.9195994",
+        "lon": "-95.5171162"
+    },
+    {
+        "name": "Houston Employee Population East",
+        "lat": "29.8296699",
+        "lon": "-95.2699349"
+    },
+    {
+        "name": "Houston Employee Population West",
+        "lat": "29.720978",
+        "lon": "-95.4775471"
+    },
+    {
+        "name": "Dallas Employee Population",
+        "lat": "32.7766642",
+        "lon": "-96.7969879"
+    },
+    {
+        "name": "Connecticut Employee Population",
+        "lat": "41.7360305",
+        "lon": "-72.795027"
+    },
+    {
+        "name": "Accenture Mumbai - India - ACCN5",
+        "lat": "19.1042388",
+        "lon": "72.9219836"
+    },
+    {
+        "name": "Accenture Gurugram - India - ACCN3",
+        "lat": "28.5100193",
+        "lon": "77.0730058"
+    },
+    {
+        "name": "Accenture Bengaluru - India - ACCN2",
+        "lat": "12.9855507",
+        "lon": "77.6952447"
+    },
+    {
+        "name": "Accenture Bangalore - India - ACCN1",
+        "lat": "12.9236418",
+        "lon": "77.6737752"
+    },
+    {
+        "name": "Accenture iHub - \tPhilippines - 1000856",
+        "lat": "14.4237231",
+        "lon": "121.0374109"
+    },
+    {
+        "name": "Accenture Gateway - Philippines - 1002406",
+        "lat": "14.6220165",
+        "lon": "121.0533004"
+    },
+    {
+        "name": "SP Population - Pune, IN",
+        "lat": "18.5204303",
+        "lon": "73.8567437"
+    },
+    {
+        "name": "SP Population - Muntinlupa, PH",
+        "lat": "14.4125897",
+        "lon": "121.0343247"
+    },
+    {
+        "name": "SP Population - Mumbai, IN",
+        "lat": "19.0759837",
+        "lon": "72.8776559"
+    },
+    {
+        "name": "SP Population - Manila, PH",
+        "lat": "14.5995124",
+        "lon": "120.9842195"
+    },
+    {
+        "name": "SP Population - Kolkata, IN",
+        "lat": "22.5743545",
+        "lon": "88.3628734"
+    },
+    {
+        "name": "SP Population - Hyderabad, IN",
+        "lat": "17.406498",
+        "lon": "78.4772439"
+    },
+    {
+        "name": "SP Population - Gurugram, IN",
+        "lat": "28.4594965",
+        "lon": "77.0266383"
+    },
+    {
+        "name": "SP Population - Chennai, IN",
+        "lat": "13.0843007",
+        "lon": "80.2704622"
+    },
+    {
+        "name": "SP Population - Cebu City, PH",
+        "lat": "10.3156992",
+        "lon": "123.8854366"
+    },
+    {
+        "name": "SP Population - Bengaluru, IN",
+        "lat": "12.9715987",
+        "lon": "77.5945627"
+    },
+    {
+        "name": "Reigate (Omnibus Building) England - 1003319",
+        "lat": "51.2341921",
+        "lon": "-0.2014691"
+    },
+    {
+        "name": "3 St Helen's Place, London, UK - 190035",
+        "lat": "51.5151636",
+        "lon": "-0.0821264"
+    },
+    {
+        "name": "Luxembourg - Investments Regus Space - 189167",
+        "lat": "49.6065277",
+        "lon": "6.1296523"
+    },
+    {
+        "name": "Dublin (IFSC) Ireland - 30 NWQ - 1000307",
+        "lat": "53.3479489",
+        "lon": "-6.2416098"
+    },
+    {
+        "name": "London Employee Population",
+        "lat": "51.5072178",
+        "lon": "-0.1275862"
+    }
+]
