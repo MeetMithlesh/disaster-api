@@ -1,397 +1,1142 @@
 [
   {
-    "name": "India - Haryana - Gurugram (GUR)",
-    "lat": 28.49814,
-    "lon": 77.088954
-  },
-  {
-    "name": "Taiwan - Taipei - Taipei City (TPC)",
-    "lat": 25.06337782654824,
-    "lon": 121.61562191713891
+    "name": "Taiwan - Hsinchu - Hsinchu (TWH)",
+    "latitude": 24.7934,
+    "longitude": 121.00189
   },
   {
     "name": "Taiwan - Taipei City - Taipei (TNN)",
-    "lat": 25.058357319597462,
-    "lon": 121.61871051285306
+    "latitude": 25.0577427,
+    "longitude": 121.618821
   },
   {
-    "name": "Taiwan - Taipei - Taipei (TNN)",
-    "lat": 25.060054033681368,
-    "lon": 121.61278923973211
+    "name": "Taiwan - Taipei - Taipei City (TPC)",
+    "latitude": 25.057336,
+    "longitude": 121.615626
   },
   {
-    "name": "New Zealand - Auckland - Auckland (ANZ)",
-    "lat": -36.843598193140025,
-    "lon": 174.76757163827673
-  },
-  {
-    "name": "Singapore - Singapore (SOH)",
-    "lat": 1.2830961099471823,
-    "lon": 103.80492975141392
-  },
-  {
-    "name": "Singapore - Singapore (SGP)",
-    "lat": 1.2907927868035287,
-    "lon": 103.80709771260024
-  },
-  {
-    "name": "Australia - Western Australia - Perth (PAU)",
-    "lat": -31.946904003128477,
-    "lon": 115.85630721498866
-  },
-  {
-    "name": "Australia - Victoria - Forest Hill (MRN)",
-    "lat": -37.85102689312534,
-    "lon": 145.16670881026366
-  },
-  {
-    "name": "Australia - Victoria - Melbourne (MCV)",
-    "lat": -37.81173071709738,
-    "lon": 144.96246548563144
-  },
-  {
-    "name": "Republic of Korea - Seoul - Seoul (KOR)",
-    "lat": 37.528666962604085,
-    "lon": 126.9234702394235
-  },
-  {
-    "name": "Australia - New South Wales - Sydney (KOA)",
-    "lat": -32.93257140015757,
-    "lon": 151.70991822592842
-  },
-  {
-    "name": "Vietnam - Hanoi - Hanoi (HVM)",
-    "lat": 21.03882268340656,
-    "lon": 105.81372075765934
-  },
-  {
-    "name": "Singapore - Singapore (DRD)",
-    "lat": 1.2880738743558908,
-    "lon": 103.80805605805618
-  },
-  {
-    "name": "Australia - Canberra - Canberra (CAU)",
-    "lat": -35.27279881297676,
-    "lon": 149.12537668645285
-  },
-  {
-    "name": "Australia - Sydney - North Sydney (NSA)",
-    "lat": -33.835635426648054,
-    "lon": 151.205553281763
-  },
-  {
-    "name": "Japan - Osaka - Osaka (OSK)",
-    "lat": 34.68614267915386,
-    "lon": 135.50013045875315
-  },
-  {
-    "name": "Thailand - Bangkok - Bangkok (BKT)",
-    "lat": 13.739087338818779,
-    "lon": 100.52971662632939
-  },
-  {
-    "name": "Japan - Ota-ku - Ota-ku (JAO)",
-    "lat": 35.58444297550259,
-    "lon": 139.74857499143963
-  },
-  {
-    "name": "Japan - Tokyo - Tokyo (JAT)",
-    "lat": 35.63753322978506,
-    "lon": 139.74369199397412
-  },
-  {
-    "name": "China - Beijing - Beijing (BJN)",
-    "lat": 39.99952560841134,
-    "lon": 116.48193659591453
-  },
-  {
-    "name": "China - Guangdong - Guangzhou (CGZ)",
-    "lat": 23.135215136376786,
-    "lon": 113.2646991760983
-  },
-  {
-    "name": "China - Sichuan -\u00a0ChengDu (CHD)",
-    "lat": 30.669183480382177,
-    "lon": 104.07965280649985
-  },
-  {
-    "name": "China - Zhejiang -\u00a0Hangzhou (CHZ)",
-    "lat": 30.2571605925026,
-    "lon": 120.14230946673537
-  },
-  {
-    "name": "JiNan - Shandong - JiNan (CJN)",
-    "lat": 36.67554974286281,
-    "lon": 117.02767304342024
-  },
-  {
-    "name": "China - Jiangsu - Nanjing (CNJ)",
-    "lat": 32.04805009927258,
-    "lon": 118.78614618704462
-  },
-  {
-    "name": "China -\u00a0Zhongqing -\u00a0Chongqing (CQP)",
-    "lat": 29.610915680335527,
-    "lon": 106.37388605437141
-  },
-  {
-    "name": "China - Wuhan - Wuhan (CWH)",
-    "lat": 30.609700135897356,
-    "lon": 114.31136502237717
-  },
-  {
-    "name": "China - Shanxi - Xian (CXI)",
-    "lat": 37.57227521983779,
-    "lon": 112.29513944273728
-  },
-  {
-    "name": "China - Guangdong - Shenzhen (SHC)",
-    "lat": 22.54775383498997,
-    "lon": 114.06058580311765
-  },
-  {
-    "name": "United Arab Emirates - Dubai - Dubai (DIC)",
-    "lat": 25.094429553735026,
-    "lon": 55.158700608698304
-  },
-  {
-    "name": "Bentonville, AR",
-    "lat": 36.34682,
-    "lon": -94.190992
-  },
-  {
-    "name": "Westminster, CO",
-    "lat": 39.916886,
-    "lon": -105.008385
-  },
-  {
-    "name": "Rio Rancho, NM",
-    "lat": 35.311439,
-    "lon": -106.688925
-  },
-  {
-    "name": "Washington, DC",
-    "lat": 38.896332,
-    "lon": -77.02932
-  },
-  {
-    "name": "Colorado Springs (CDH)",
-    "lat": 38.878308,
-    "lon": -104.83959
-  },
-  {
-    "name": "Spring, TX",
-    "lat": 38.896332,
-    "lon": -77.02932
-  },
-  {
-    "name": "Corvallis, OR",
-    "lat": 44.5840866,
-    "lon": -123.2424026
-  },
-  {
-    "name": "Austin, TX",
-    "lat": 38.896332,
-    "lon": -77.02932
-  },
-  {
-    "name": "Alpharetta, GA",
-    "lat": 34.0874292,
-    "lon": -84.2650355
-  },
-  {
-    "name": "La Vergne, TN",
-    "lat": 35.9902318,
-    "lon": -86.5695431
-  },
-  {
-    "name": "Fountain Valley, CA",
-    "lat": 33.7071275,
-    "lon": -117.9301996
-  },
-  {
-    "name": "Socorro, TX",
-    "lat": 31.619836,
-    "lon": -106.258863
-  },
-  {
-    "name": "Burlington, MA",
-    "lat": 42.4904823,
-    "lon": -71.1983905
-  },
-  {
-    "name": "San Bernardino, CA",
-    "lat": 34.208966,
-    "lon": -117.391041
-  },
-  {
-    "name": "Fort Collins, CO",
-    "lat": 40.5264943,
-    "lon": -105.0126417
-  },
-  {
-    "name": "Herndon, VA",
-    "lat": 38.956182,
-    "lon": -77.415103
-  },
-  {
-    "name": "Boise, ID",
-    "lat": 43.6599336,
-    "lon": -116.3241006
-  },
-  {
-    "name": "Palo Alto, CA",
-    "lat": 37.3963476,
-    "lon": -122.1602009
-  },
-  {
-    "name": "Sandston, VA",
-    "lat": 37.485954,
-    "lon": -77.233909
-  },
-  {
-    "name": "Plainfield, IN",
-    "lat": 39.732258,
-    "lon": -86.361333
-  },
-  {
-    "name": "New York City (NNY)",
-    "lat": 40.7492643,
-    "lon": -73.9863281
-  },
-  {
-    "name": "San Diego, CA",
-    "lat": 33.0125838,
-    "lon": -117.0904691
-  },
-  {
-    "name": "Scotts Valley, CA",
-    "lat": 37.0639376,
-    "lon": -121.9996233
-  },
-  {
-    "name": "Nashville, TN",
-    "lat": 35.9874411,
-    "lon": -86.5833679
-  },
-  {
-    "name": "San Diego (SCA)",
-    "lat": 32.5733827,
-    "lon": -117.0034907
-  },
-  {
-    "name": "Santa Cruz, CA",
-    "lat": 36.9873688,
-    "lon": -122.0372814
-  },
-  {
-    "name": "Vancouver, WA",
-    "lat": 45.613702,
-    "lon": -122.5012542
-  },
-  {
-    "name": "Austin, TX (AUV)",
-    "lat": 30.2761272,
-    "lon": -97.817697
-  },
-  {
-    "name": "Washington, DC (DCA)",
-    "lat": 38.895484,
-    "lon": -77.029446
-  },
-  {
-    "name": "India - Haryana - Gurugram (GIN)",
-    "lat": 28.49814,
-    "lon": 77.088954
-  },
-  {
-    "name": "India - West Bengal - Kolkata (KIN)",
-    "lat": 22.5726459,
-    "lon": 88.3638953
-  },
-  {
-    "name": "India - Gujarat - Ahmedabad (IAH)",
-    "lat": 22.98209519496912,
-    "lon": 72.66878122709426
-  },
-  {
-    "name": "India - New Delhi - New Delhi (INE)",
-    "lat": 28.5079202,
-    "lon": 77.0909697
-  },
-  {
-    "name": "India - New Delhi - New Delhi (INN)",
-    "lat": 28.54722,
-    "lon": 77.25083
-  },
-  {
-    "name": "India - Haryana - Gurgaon (ING)",
-    "lat": 28.485747,
-    "lon": 77.064408
-  },
-  {
-    "name": "India - Maharashtra - Mumbai (UNI)",
-    "lat": 19.007145612451524,
-    "lon": 72.82114873885895
-  },
-  {
-    "name": "India - Maharashtra - Mumbai (MIN)",
-    "lat": 19.061814641927835,
-    "lon": 72.85153797999078
-  },
-  {
-    "name": "India - Maharashtra - Mumbai (IRT)",
-    "lat": 19.178869677252667,
-    "lon": 72.85988809220291
-  },
-  {
-    "name": "India - Maharashtra - Pune (PNB)",
-    "lat": 18.561997821245043,
-    "lon": 73.77747568967469
-  },
-  {
-    "name": "India - Maharashtra - Pune (IPU)",
-    "lat": 18.551105305098112,
-    "lon": 73.90639847576755
-  },
-  {
-    "name": "India - Telangana - Hyderabad (HYI)",
-    "lat": 17.433406612135883,
-    "lon": 78.38798037057308
-  },
-  {
-    "name": "India - Tamil Nadu - Chennai (IOC)",
-    "lat": 13.017774763668564,
-    "lon": 80.2043239378189
-  },
-  {
-    "name": "India - Karnataka - Bangalore (SAU)",
-    "lat": 12.940382824986795,
-    "lon": 77.6103095977721
+    "name": "New Zealand - Wellington - Wellington (NZW)",
+    "latitude": -41.3184866,
+    "longitude": 174.7316708
   },
   {
     "name": "India - Karnataka - Bangalore (BEP)",
-    "lat": 12.979572864686022,
-    "lon": 77.65747069418757
+    "latitude": 12.979207,
+    "longitude": 77.657578
   },
   {
-    "name": "India - Karnataka - Bangalore (BNG)",
-    "lat": 12.980598337996394,
-    "lon": 77.71117632117189
+    "name": "Singapore - Singapore (SOH)",
+    "latitude": 1.2827207,
+    "longitude": 103.8050156
   },
   {
-    "name": "India - Karnataka - Bangalore (ECN)",
-    "lat": 12.97006953610146,
-    "lon": 77.71790695004113
+    "name": "Thailand - Si Racha District - Thung Sukhla (TTH)",
+    "latitude": 13.0794023,
+    "longitude": 100.9079186
+  },
+  {
+    "name": "Australia - New South Wales - Rhodes (SNO)",
+    "latitude": -33.834403,
+    "longitude": 151.087396
+  },
+  {
+    "name": "India - Karnataka - Bangalore (SAU)",
+    "latitude": 12.937217,
+    "longitude": 77.610314
+  },
+  {
+    "name": "Singapore - Singapore (SGP)",
+    "latitude": 1.2830713,
+    "longitude": 103.8081322
   },
   {
     "name": "India - Karnataka - Bangalore (PSR)",
-    "lat": 12.936039631141035,
-    "lon": 77.68040027484908
+    "latitude": 12.926516,
+    "longitude": 77.680748
+  },
+  {
+    "name": "India - Maharashtra - Pune (PNB)",
+    "latitude": 18.55632,
+    "longitude": 73.77645
+  },
+  {
+    "name": "Philippines - National Capital Reg - Makati City (PMC)",
+    "latitude": 14.554035,
+    "longitude": 121.023027
+  },
+  {
+    "name": "Australia - Western Australia - Perth (PAU)",
+    "latitude": -31.951446,
+    "longitude": 115.857341
+  },
+  {
+    "name": "New Zealand - Auckland - Auckland (NZA)",
+    "latitude": -36.842294,
+    "longitude": 174.756654
+  },
+  {
+    "name": "Malaysia - Kuala Lumpur - Kuala Lumpur (MWS)",
+    "latitude": 3.151626,
+    "longitude": 101.663989
+  },
+  {
+    "name": "Australia - Victoria - Forest Hill (MRN)",
+    "latitude": -37.853902,
+    "longitude": 145.167399
+  },
+  {
+    "name": "Australia - Victoria - Melbourne (MCV)",
+    "latitude": -37.815421,
+    "longitude": 144.963499
+  },
+  {
+    "name": "Republic of Korea - Gyeonggi-do - Seongnam Si (KRS) - HPPK",
+    "latitude": 37.428196,
+    "longitude": 127.0923358
+  },
+  {
+    "name": "Republic of Korea - Seoul - Seoul (KOR) - HPK",
+    "latitude": 37.5233861,
+    "longitude": 126.9234738
+  },
+  {
+    "name": "Australia - New South Wales - Sydney (KOA)",
+    "latitude": -32.937641,
+    "longitude": 151.709922
+  },
+  {
+    "name": "India - West Bengal - Kolkata (KKT)",
+    "latitude": 22.5804963,
+    "longitude": 88.4371463
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (IRT)",
+    "latitude": 19.172889,
+    "longitude": 72.860579
+  },
+  {
+    "name": "India - Maharashtra - Pune (IPU)",
+    "latitude": 18.5460781,
+    "longitude": 73.9070894
+  },
+  {
+    "name": "India - Tamil Nadu - Chennai (IOC)",
+    "latitude": 13.01461,
+    "longitude": 80.2045
+  },
+  {
+    "name": "India - New Delhi - New Delhi (INN)",
+    "latitude": 28.5502878,
+    "longitude": 77.251782
+  },
+  {
+    "name": "India - Haryana - Gurgaon (ING)",
+    "latitude": 28.451693,
+    "longitude": 77.09835
+  },
+  {
+    "name": "India - New Delhi - New Delhi (INE)",
+    "latitude": 28.628322,
+    "longitude": 77.217208
+  },
+  {
+    "name": "India - Gujarat - Ahmedabad (IAH)",
+    "latitude": 23.099504,
+    "longitude": 72.531395
+  },
+  {
+    "name": "India - Telangana - Hyderabad (HYI)",
+    "latitude": 17.431622,
+    "longitude": 78.388328
+  },
+  {
+    "name": "Vietnam - Hanoi - Hanoi (HVM)",
+    "latitude": 21.031953,
+    "longitude": 105.812695
+  },
+  {
+    "name": "Vietnam - Ho Chi Minh - Ho Chi Minh City (HOC)",
+    "latitude": 10.782974,
+    "longitude": 106.701036
+  },
+  {
+    "name": "India - Haryana - Gurugram (GIN)",
+    "latitude": 28.5036185,
+    "longitude": 77.095262
   },
   {
     "name": "India - Karnataka - Bangalore (ECP)",
-    "lat": 12.846782981499583,
-    "lon": 77.66528295057107
+    "latitude": 12.840938,
+    "longitude": 77.665974
+  },
+  {
+    "name": "India - Karnataka - Bangalore (ECN)",
+    "latitude": 12.969687,
+    "longitude": 77.717986
+  },
+  {
+    "name": "Singapore - Singapore (DRD)",
+    "latitude": 1.2824118,
+    "longitude": 103.8084039
+  },
+  {
+    "name": "Australia - Canberra - Canberra (CAU)",
+    "latitude": -35.278012,
+    "longitude": 149.126067
+  },
+  {
+    "name": "India - Karnataka - Bangalore (BNG)",
+    "latitude": 12.9740875,
+    "longitude": 77.7108374
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (MIN)",
+    "latitude": 19.0551806,
+    "longitude": 72.8508556
+  },
+  {
+    "name": "Australia - Queensland - Brisbane (BBE)",
+    "latitude": -27.474036,
+    "longitude": 153.002285
+  },
+  {
+    "name": "Australia - Sydney - North Sydney (NSA)",
+    "latitude": -33.8378882,
+    "longitude": 151.2057812
+  },
+  {
+    "name": "Japan - Tokyo - Tokyo (TJP)",
+    "latitude": 35.696585,
+    "longitude": 139.7088723
+  },
+  {
+    "name": "Japan - Osaka - Osaka (OSK)",
+    "latitude": 34.6795359,
+    "longitude": 135.5008208
+  },
+  {
+    "name": "Thailand - Bangkok - Bangkok (BGT)",
+    "latitude": 13.7481626,
+    "longitude": 100.5645854
+  },
+  {
+    "name": "Indonesia - Surabaya - Surabaya (SUI)",
+    "latitude": -7.2610202,
+    "longitude": 112.7384933
+  },
+  {
+    "name": "Thailand - Bangkok - Bangkok (BKT)",
+    "latitude": 13.7335982,
+    "longitude": 100.5280044
+  },
+  {
+    "name": "Thailand - Bangkok - Bangkok (BKK)",
+    "latitude": 13.7273635,
+    "longitude": 100.5404964
+  },
+  {
+    "name": "Japan - Ota-ku - Ota-ku (JAO)",
+    "latitude": 35.578747,
+    "longitude": 139.747892
+  },
+  {
+    "name": "Malaysia - Penang - Pulau Pinang (PEN)",
+    "latitude": 5.2267246,
+    "longitude": 100.4501419
+  },
+  {
+    "name": "Japan - Aichi - Nagoya (NGY)",
+    "latitude": 35.171995,
+    "longitude": 136.884528
+  },
+  {
+    "name": "Japan - Tokyo - Tokyo (JAT)",
+    "latitude": 35.6326782,
+    "longitude": 139.743009
+  },
+  {
+    "name": "New Zealand - Auckland - Auckland (ANZ)",
+    "latitude": -36.8473357,
+    "longitude": 174.7686052
+  },
+  {
+    "name": "Japan - Fukuoka - Fukuoka (FOJ)",
+    "latitude": 33.5972143,
+    "longitude": 130.4085514
+  },
+  {
+    "name": "India - West Bengal - Kolkata (KIN)",
+    "latitude": 22.57998,
+    "longitude": 88.43565
+  },
+  {
+    "name": "India - Maharashtra - Mumbai (UNI)",
+    "latitude": 19.006094,
+    "longitude": 72.8212096
+  },
+  {
+    "name": "Hong Kong - Hong Kong Island - Hong Kong (HKG)",
+    "latitude": 22.2855868,
+    "longitude": 114.2176776
+  },
+  {
+    "name": "Singapore - Singapore (SIN)",
+    "latitude": 1.335726,
+    "longitude": 103.640504
+  },
+  {
+    "name": "China - Beijing - Beijing (BJN)",
+    "latitude": 39.9939,
+    "longitude": 116.48297
+  },
+  {
+    "name": "China - Guangdong - Guangzhou (CGZ)",
+    "latitude": 23.12908,
+    "longitude": 113.26436
+  },
+  {
+    "name": "China - Sichuan - ChengDu (CHD)",
+    "latitude": 30.66729,
+    "longitude": 104.08
+  },
+  {
+    "name": "China - Shenzhen - Shenzhen (CHS)",
+    "latitude": 22.53309,
+    "longitude": 114.06223
+  },
+  {
+    "name": "China - Zhejiang - Hangzhou (CHZ)",
+    "latitude": 30.2517,
+    "longitude": 120.143
+  },
+  {
+    "name": "JiNan - Shandong - JiNan (CJN)",
+    "latitude": 36.67131,
+    "longitude": 117.02699
+  },
+  {
+    "name": "China - Jiangsu - Nanjing (CNJ)",
+    "latitude": 32.04182,
+    "longitude": 118.78615
+  },
+  {
+    "name": "China - Zhongqing - Chongqing (CQM)",
+    "latitude": 29.60721,
+    "longitude": 106.37286
+  },
+  {
+    "name": "China - Zhongqing - Chongqing (CQP)",
+    "latitude": 29.60721,
+    "longitude": 106.37286
+  },
+  {
+    "name": "China - Shanghai - Shanghai (CSI)",
+    "latitude": 31.31292,
+    "longitude": 121.60592
+  },
+  {
+    "name": "China - Liaoning - Shenyang (CSY)",
+    "latitude": 41.7623,
+    "longitude": 123.431
+  },
+  {
+    "name": "China - Wuhan - Wuhan (CWH)",
+    "latitude": 30.60955,
+    "longitude": 114.31138
+  },
+  {
+    "name": "China - Shanxi - Xian (CXI)",
+    "latitude": 37.57224,
+    "longitude": 112.29514
+  },
+  {
+    "name": "China - Henan - ZhengZhou (CZZ)",
+    "latitude": 34.77653,
+    "longitude": 113.68253
+  },
+  {
+    "name": "China - Liaoning - Dalian (DGD)",
+    "latitude": 38.88367,
+    "longitude": 121.54473
+  },
+  {
+    "name": "China - Shanghai - Shanghai (SCS)",
+    "latitude": 31.20421,
+    "longitude": 121.60199
+  },
+  {
+    "name": "China - Guangdong - Shenzhen (SHC)",
+    "latitude": 22.54286,
+    "longitude": 114.05956
+  },
+  {
+    "name": "China - Guangdong - Shenzhen (SHN)",
+    "latitude": 22.54368,
+    "longitude": 114.05791
+  },
+  {
+    "name": "China - Suzhou - Suzhou (SUC)",
+    "latitude": 32.96626,
+    "longitude": 119.47569
+  },
+  {
+    "name": "China - Hubei - Wuhan (WUA)",
+    "latitude": 30.44133,
+    "longitude": 114.45355
+  },
+  {
+    "name": "China - Weihai - Weihai (WCH)",
+    "latitude": 37.424461,
+    "longitude": 121.982166
+  },
+  {
+    "name": "Indonesia - Jabotabek - Jakarta (JKK)",
+    "latitude": -6.2225625,
+    "longitude": 106.8429375
+  },
+  {
+    "name": "India - Gurugram - Gurugram (GTC)",
+    "latitude": 28.474679,
+    "longitude": 77.1048978
+  },
+  {
+    "name": "No. 1-2, Li Hsin 1st Rd",
+    "latitude": 24.7716935,
+    "longitude": 121.0164719
+  },
+  {
+    "name": "Australia - Western Australia - Perth (WES)",
+    "latitude": -31.9553929,
+    "longitude": 115.8543256
+  },
+  {
+    "name": "New Zealand - Wellington - Wellington (NZE)",
+    "latitude": -41.2780929,
+    "longitude": 174.7741531
+  },
+  {
+    "name": "Taiwan - Hsinchu County - Hsinchu(TSI)",
+    "latitude": 24.80671547,
+    "longitude": 121.1475388
+  },
+  {
+    "name": "United Arab Emirates - Dubai - Dubai (DBI)",
+    "latitude": 24.95876,
+    "longitude": 55.10037
+  },
+  {
+    "name": "Egypt - Cairo - New Cairo (ECA)",
+    "latitude": 30.0190297,
+    "longitude": 31.4271901
+  },
+  {
+    "name": "United Arab Emirates - Dubai - Dubai (DIC)",
+    "latitude": 25.09247,
+    "longitude": 55.15846
+  },
+  {
+    "name": "South Africa - Cape Town - Cape Town (ZAC)",
+    "latitude": -33.893589,
+    "longitude": 18.504485
+  },
+  {
+    "name": "Croatia - Grad Zagreb - Zagreb (ZGB)",
+    "latitude": 45.802829,
+    "longitude": 16.0046289
+  },
+  {
+    "name": "Austria - Wien - Wien (VIE)",
+    "latitude": 48.1692739,
+    "longitude": 16.3344174
+  },
+  {
+    "name": "Poland - Dolnoslaskie - Wroclaw (WRB)",
+    "latitude": 51.10733,
+    "longitude": 17.03837
+  },
+  {
+    "name": "United Kingdom - Cambridge - Cambridge (UKC)",
+    "latitude": 52.190659,
+    "longitude": 0.132567
+  },
+  {
+    "name": "Turkey - Istanbul - Istanbul (TIS)",
+    "latitude": 41.030635,
+    "longitude": 29.111434
+  },
+  {
+    "name": "France - Haute Garonne - Labege (TEA)",
+    "latitude": 43.548655,
+    "longitude": 1.5013875
+  },
+  {
+    "name": "United Kingdom - Reading - Thames Valley (THV)",
+    "latitude": 51.4604721,
+    "longitude": -0.9297143
+  },
+  {
+    "name": "France - Alsace - Strasbourg (SXB)",
+    "latitude": 48.613185,
+    "longitude": 7.712072
+  },
+  {
+    "name": "Spain - Valencia - Valencia (SPV)",
+    "latitude": 39.467953,
+    "longitude": -0.375226
+  },
+  {
+    "name": "Bulgaria - Sofia - Sofia (SOV)",
+    "latitude": 42.6280215,
+    "longitude": 23.3736197
+  },
+  {
+    "name": "Sweden - Stockholm - Solna (SOO)",
+    "latitude": 59.3718,
+    "longitude": 18.016829
+  },
+  {
+    "name": "Sweden - Stockholm - Stockholm (SOL)",
+    "latitude": 59.2943,
+    "longitude": 18.08009
+  },
+  {
+    "name": "Germany - North Rhine-Westphalia - Ratingen (RAT)",
+    "latitude": 51.2919156,
+    "longitude": 6.8103328
+  },
+  {
+    "name": "Czech Republic - Praha - Prague (PUE)",
+    "latitude": 50.0475877,
+    "longitude": 14.4575912
+  },
+  {
+    "name": "France - Paris - Meudon (PMO)",
+    "latitude": 48.8212103,
+    "longitude": 2.2330914
+  },
+  {
+    "name": "Norway - Fornebu - Fornebu (NOS)",
+    "latitude": 59.894403,
+    "longitude": 10.627244
+  },
+  {
+    "name": "France - Nantes - Nantes (NAS)",
+    "latitude": 47.239562,
+    "longitude": -1.578118
+  },
+  {
+    "name": "Germany - Munich - Munich (MGE)",
+    "latitude": 48.178424,
+    "longitude": 11.594563
+  },
+  {
+    "name": "Spain - Madrid - Las Rozas (MDI)",
+    "latitude": 40.5256167,
+    "longitude": -3.8896983
+  },
+  {
+    "name": "Italy - Milano - Milan (MCR)",
+    "latitude": 45.5186234,
+    "longitude": 9.3475801
+  },
+  {
+    "name": "France - Rhone - Lyon (LYN)",
+    "latitude": 45.7605237,
+    "longitude": 4.8635883
+  },
+  {
+    "name": "Luxembourg - Capellen - Capellen (LVG)",
+    "latitude": 49.6400698,
+    "longitude": 6.0096003
+  },
+  {
+    "name": "Portugal - Lisbon - Lisbon (LIS)",
+    "latitude": 38.710513,
+    "longitude": -9.300735
+  },
+  {
+    "name": "Nigeria - Lagos - Lagos (LGT)",
+    "latitude": 6.44665,
+    "longitude": 3.4101
+  },
+  {
+    "name": "Spain - Leon - Leon (LEO)",
+    "latitude": 42.5766137,
+    "longitude": -5.5970594
+  },
+  {
+    "name": "France - Lille - Lezennes (LEB)",
+    "latitude": 50.6017036,
+    "longitude": 3.1355898
+  },
+  {
+    "name": "Hungary - Budapest - Budapest (HUB)",
+    "latitude": 47.4747134,
+    "longitude": 19.0497161
+  },
+  {
+    "name": "United Kingdom - Glasgow - Glasgow (GLW)",
+    "latitude": 55.862436,
+    "longitude": -4.259143
+  },
+  {
+    "name": "Switzerland - Meyrin - Meyrin (GVA)",
+    "latitude": 46.2266574,
+    "longitude": 6.056676
+  },
+  {
+    "name": "Italy - Vimercate - Italy (VMT)",
+    "latitude": 45.5973784,
+    "longitude": 9.3616776
+  },
+  {
+    "name": "United Kingdom - Monmouth - Monmouth (MUK)",
+    "latitude": 51.807228,
+    "longitude": -2.7300252
+  },
+  {
+    "name": "Israel - Netanya - Netanya (XNY)",
+    "latitude": 32.28911,
+    "longitude": 34.86549
+  },
+  {
+    "name": "Switzerland - Zurich - Wallisellen (CHE)",
+    "latitude": 47.408467,
+    "longitude": 8.596052
+  },
+  {
+    "name": "Poland - Warsaw - Warsaw (WAP)",
+    "latitude": 52.2421,
+    "longitude": 21.01277
+  },
+  {
+    "name": "South Africa - Johannesburg - Johannesburg (JNB)",
+    "latitude": -26.043699,
+    "longitude": 28.058317
+  },
+  {
+    "name": "Finland - Espoo - Espoo (EHF)",
+    "latitude": 60.177675,
+    "longitude": 24.830868
+  },
+  {
+    "name": "Italy - Roma - Rome (ITR)",
+    "latitude": 41.8158731,
+    "longitude": 12.4798476
+  },
+  {
+    "name": "Morocco - Casablanca - Casablanca (CSD)",
+    "latitude": 33.57311,
+    "longitude": -7.589843
+  },
+  {
+    "name": "France - Grenoble - Grenoble (FRG)",
+    "latitude": 45.197877,
+    "longitude": 5.709096
+  },
+  {
+    "name": "United Kingdom - Bristol - Bristol (BST)",
+    "latitude": 51.4562814,
+    "longitude": -2.5904691
+  },
+  {
+    "name": "United Kingdom - London - London (LUK)",
+    "latitude": 51.5144054,
+    "longitude": -0.0802511
+  },
+  {
+    "name": "Saudi Arabia - Riyadh - Riyadh (RYC)",
+    "latitude": 24.6901303,
+    "longitude": 46.6851729
+  },
+  {
+    "name": "Slovakia - Bratislavsky - Bratislava (BTV)",
+    "latitude": 48.165718,
+    "longitude": 17.177718
+  },
+  {
+    "name": "Germany - Frankfurt - Frankfurt (GFR)",
+    "latitude": 50.13195,
+    "longitude": 8.57224
+  },
+  {
+    "name": "United Kingdom - London - London (GBM)",
+    "latitude": 51.513738,
+    "longitude": -0.080985
+  },
+  {
+    "name": "Ireland - Dublin - Dublin (DIR)",
+    "latitude": 53.3525075,
+    "longitude": -6.3915062
+  },
+  {
+    "name": "Israel - Kiryat Gat - Kiryat Gat (KGI)",
+    "latitude": 31.614628,
+    "longitude": 34.767727
+  },
+  {
+    "name": "Spain - Sevilla (SEV)",
+    "latitude": 37.3929486,
+    "longitude": -5.9940497
+  },
+  {
+    "name": "Greece - Athens - Athens (HEA)",
+    "latitude": 38.00928,
+    "longitude": 23.784512
+  },
+  {
+    "name": "Israel - Tel Aviv - Ramat Gan (RIS)",
+    "latitude": 32.0850623,
+    "longitude": 34.8019093
+  },
+  {
+    "name": "Germany - Munich - Bavaria (GEB)",
+    "latitude": 48.1220513,
+    "longitude": 11.4528864
+  },
+  {
+    "name": "Israel - Ness Ziona - Ness Ziona (INR)",
+    "latitude": 31.9160304,
+    "longitude": 34.8048936
+  },
+  {
+    "name": "United Arab Emirates - Abu Dhabi - Abu Dhabi (ABB)",
+    "latitude": 24.4980421,
+    "longitude": 54.3736017
+  },
+  {
+    "name": "Denmark - Hovedstaden - Allerod (ALL)",
+    "latitude": 55.863537,
+    "longitude": 12.329337
+  },
+  {
+    "name": "Kazakhstan - Almaty - Almaty (ALM)",
+    "latitude": 43.2190777,
+    "longitude": 76.9292402
+  },
+  {
+    "name": "Netherlands - Noord-Holland - Amstelveen (AML)",
+    "latitude": 52.266944,
+    "longitude": 4.857066
+  },
+  {
+    "name": "Germany - Bavaria - Munich (DEU)",
+    "latitude": 48.10785,
+    "longitude": 11.45164
+  },
+  {
+    "name": "Tunisia - Tunis - Ariana (ARF)",
+    "latitude": 36.896969,
+    "longitude": 10.191952
+  },
+  {
+    "name": "Germany - Boeblingen -  Boeblingen (BBN)",
+    "latitude": 48.6740343,
+    "longitude": 8.9765623
+  },
+  {
+    "name": "Romania - Bucharest - Bucharest (BCA)",
+    "latitude": 44.4829021,
+    "longitude": 26.1129393
+  },
+  {
+    "name": "Spain - Barcelona - Sant Cugat del Valles (BCN)",
+    "latitude": 41.493038,
+    "longitude": 2.062931
+  },
+  {
+    "name": "Germany - Bayern - Munich (DES)",
+    "latitude": 48.123408,
+    "longitude": 11.612097
+  },
+  {
+    "name": "Belgium - Brussels - Brussels (BEB)",
+    "latitude": 50.841899,
+    "longitude": 4.383816
+  },
+  {
+    "name": "Belgium - Vlaams-Brabant - Diegem (BEG)",
+    "latitude": 50.882859,
+    "longitude": 4.447288
+  },
+  {
+    "name": "Serbia - Belgrade - Belgrade (BGD)",
+    "latitude": 44.81223,
+    "longitude": 20.39652
+  },
+  {
+    "name": "Spain - Bilbao (BLB)",
+    "latitude": 43.2618653,
+    "longitude": -2.9309826
+  },
+  {
+    "name": "Russia - Moscow - Moscow (MOW)",
+    "latitude": 55.8608753,
+    "longitude": 37.483922
+  },
+  {
+    "name": "United States - California - Tustin (TUC)",
+    "latitude": 33.7042996,
+    "longitude": -117.8374891
+  },
+  {
+    "name": "United States - NY - New York (NYC)",
+    "latitude": 40.7461161,
+    "longitude": -73.984339
+  },
+  {
+    "name": "United States - Arkansas - Bentonville (BEA)",
+    "latitude": 36.3464223,
+    "longitude": -94.1912195
+  },
+  {
+    "name": "United States - Colorado - Westminster (WEC)",
+    "latitude": 39.9171359,
+    "longitude": -105.0083497
+  },
+  {
+    "name": "United States - New Mexico - Rio Rancho (AQN)",
+    "latitude": 35.3111956,
+    "longitude": -106.6886884
+  },
+  {
+    "name": "United States - DC - Washington (DCP)",
+    "latitude": 38.8962839,
+    "longitude": -77.0292205
+  },
+  {
+    "name": "United States - CO - Colorado Springs (CDH)",
+    "latitude": 38.878308,
+    "longitude": -104.83959
+  },
+  {
+    "name": "United States - TX - Spring (TEX)",
+    "latitude": 30.1027834,
+    "longitude": -95.437643
+  },
+  {
+    "name": "Mexico - Jalisco - Las Fuentes (GLF)",
+    "latitude": 20.6169644,
+    "longitude": -103.4213267
+  },
+  {
+    "name": "United States - OR - Corvallis (COR)",
+    "latitude": 44.584087,
+    "longitude": -123.242403
+  },
+  {
+    "name": "United States - Texas - Austin (AUT)",
+    "latitude": 30.4594877,
+    "longitude": -97.7504207
+  },
+  {
+    "name": "United States - Georgia - Alpharetta (ALF)",
+    "latitude": 34.08572,
+    "longitude": -84.2691773
+  },
+  {
+    "name": "United States - TN - La Vergne (NSH)",
+    "latitude": 35.9875164,
+    "longitude": -86.5710667
+  },
+  {
+    "name": "United States - CA - Fountain Valley (FOV)",
+    "latitude": 33.7070113,
+    "longitude": -117.9299749
+  },
+  {
+    "name": "Colombia - Bogota - Bogota (COB)",
+    "latitude": 4.682298,
+    "longitude": -74.044837
+  },
+  {
+    "name": "United States - TX - Socorro (ELW)",
+    "latitude": 31.619836,
+    "longitude": -106.258863
+  },
+  {
+    "name": "United States - Massachusetts - Burlington (BRM)",
+    "latitude": 42.4914897,
+    "longitude": -71.1954049
+  },
+  {
+    "name": "United States - CA - San Bernardino (LSS)",
+    "latitude": 34.208966,
+    "longitude": -117.391041
+  },
+  {
+    "name": "Brazil - Sao Paulo - Sao Paulo (SPB)",
+    "latitude": -23.6102242,
+    "longitude": -46.6964244
+  },
+  {
+    "name": "United States - CO - Fort Collins (FTC)",
+    "latitude": 40.5260492,
+    "longitude": -105.0120878
+  },
+  {
+    "name": "United States - Virginia - Herndon (HEV)",
+    "latitude": 38.9557443,
+    "longitude": -77.4134557
+  },
+  {
+    "name": "Peru - Lima - Lima (LIM)",
+    "latitude": -12.0915234,
+    "longitude": -77.0241625
+  },
+  {
+    "name": "United States - Idaho - Boise (BOI)",
+    "latitude": 43.6572265,
+    "longitude": -116.3239974
+  },
+  {
+    "name": "United States - CA - Palo Alto (PAL)",
+    "latitude": 37.4121855,
+    "longitude": -122.1497619
+  },
+  {
+    "name": "Chile - Santiago - Santiago (SNT)",
+    "latitude": -33.4200096,
+    "longitude": -70.5982742
+  },
+  {
+    "name": "United States - VA - Sandston (SDN)",
+    "latitude": 37.4822616,
+    "longitude": -77.2242889
+  },
+  {
+    "name": "Canada - ON - Mississauga (COT)",
+    "latitude": 43.629023,
+    "longitude": -79.698583
+  },
+  {
+    "name": "United States - IN - Plainfield (IND)",
+    "latitude": 39.7428469,
+    "longitude": -86.3604891
+  },
+  {
+    "name": "Canada - QC - Montreal (MRE)",
+    "latitude": 45.463779,
+    "longitude": -73.823331
+  },
+  {
+    "name": "Canada - ON - Mississauga (MIS)",
+    "latitude": 43.649415,
+    "longitude": -79.613015
+  },
+  {
+    "name": "United States - New York - New York City (NNY)",
+    "latitude": 40.7521192,
+    "longitude": -73.9926104
+  },
+  {
+    "name": "Mexico - Ciudad de Mexico (MXO)",
+    "latitude": 19.36181,
+    "longitude": -99.26225
+  },
+  {
+    "name": "Mexico - Mexico City - Mexico City (MXM)",
+    "latitude": 19.4317087,
+    "longitude": -99.185833
+  },
+  {
+    "name": "Mexico - NL - Monterrey (MTB)",
+    "latitude": 25.649476,
+    "longitude": -100.356193
+  },
+  {
+    "name": "Canada - ON - Kitchener (YKF)",
+    "latitude": 43.402108,
+    "longitude": -80.480737
+  },
+  {
+    "name": "United States - CA - San Diego (SDG)",
+    "latitude": 33.0119312,
+    "longitude": -117.0884337
+  },
+  {
+    "name": "Canada - Ontario - Ottawa (OSC)",
+    "latitude": 45.38147,
+    "longitude": -75.61388
+  },
+  {
+    "name": "United States - CA - Scotts Valley (SVU)",
+    "latitude": 37.0635545,
+    "longitude": -122.0010398
+  },
+  {
+    "name": "United States - TN - Nashville (NSV)",
+    "latitude": 35.9855851,
+    "longitude": -86.5775205
+  },
+  {
+    "name": "Canada - British Columbia - Vancouver (VNC)",
+    "latitude": 49.286476,
+    "longitude": -123.121299
+  },
+  {
+    "name": "Canada - Ontario - Toronto (TNO)",
+    "latitude": 43.647481,
+    "longitude": -79.3840903
+  },
+  {
+    "name": "United States - CA - San Diego (SCA)",
+    "latitude": 32.5742899,
+    "longitude": -117.0063964
+  },
+  {
+    "name": "Costa Rica - Heredia - Heredia (AFZ)",
+    "latitude": 9.988294,
+    "longitude": -84.162914
+  },
+  {
+    "name": "United States - San Jose - Santa Cruz (SCU)",
+    "latitude": 36.987659,
+    "longitude": -122.036776
+  },
+  {
+    "name": "Brazil - RS - Porto Alegre (POA)",
+    "latitude": -30.059664,
+    "longitude": -51.170584
+  },
+  {
+    "name": "Puerto Rico - San Juan - Guaynabo (SAS)",
+    "latitude": 18.4168688741033,
+    "longitude": -66.1059678633391
+  },
+  {
+    "name": "Brazil - Sao Paulo - Barueri (SPX)",
+    "latitude": -23.5047989,
+    "longitude": -46.8492731
+  },
+  {
+    "name": "Costa Rica - San Jose - Santa Ana (SJN)",
+    "latitude": 9.93589662772625,
+    "longitude": -84.1887873197844
+  },
+  {
+    "name": "United States - WA - Vancouver (VCS)",
+    "latitude": 45.6133204,
+    "longitude": -122.5010369
+  },
+  {
+    "name": "Canada - Toronto - Toronto (TBC)",
+    "latitude": 43.6486569,
+    "longitude": -79.3816714
+  },
+  {
+    "name": "United States - New York - New York City (NYN)",
+    "latitude": 40.75117,
+    "longitude": -73.99159
+  },
+  {
+    "name": "United States - VA - Sandston (SDS)",
+    "latitude": 37.4866564,
+    "longitude": -77.2308156
+  },
+  {
+    "name": "Mexico - Baja California - Tijuana (TJM)",
+    "latitude": 32.5469358,
+    "longitude": -116.9142311
+  },
+  {
+    "name": "Canada - ON - Ottawa (OTA)",
+    "latitude": 45.342802,
+    "longitude": -75.918187
+  },
+  {
+    "name": "United States - Colarado - Fort Collins (INC)",
+    "latitude": 40.5402414,
+    "longitude": -105.0410385
+  },
+  {
+    "name": "United States - Washington - Washington (DCA)",
+    "latitude": 38.8962839,
+    "longitude": -77.0292205
+  },
+  {
+    "name": "Argentina - Buenos Aires - Buenos Aires (BSA)",
+    "latitude": -34.5452862,
+    "longitude": -58.4876649
+  },
+  {
+    "name": "Colombia - Bogota - Bogota (CLM)",
+    "latitude": 4.6899364,
+    "longitude": -74.0746925
+  },
+  {
+    "name": "United States - New York - New York (UNY)",
+    "latitude": 40.7367921,
+    "longitude": -73.9883092
+  },
+  {
+    "name": "CWC Singapore",
+    "latitude": 1.2826484,
+    "longitude": 103.8051557
+  },
+  {
+    "name": "CWC - Beijing",
+    "latitude": 39.98844,
+    "longitude": 116.47646
+  },
+  {
+    "name": "CWC - Shanghai",
+    "latitude": 31.216919,
+    "longitude": 121.41379
+  },
+  {
+    "name": "CWC Melbourne",
+    "latitude": -37.815452,
+    "longitude": 144.965744
+  },
+  {
+    "name": "CWC Spring",
+    "latitude": 30.1027661,
+    "longitude": -95.4375806
+  },
+  {
+    "name": "CWC Boise",
+    "latitude": 43.6597326,
+    "longitude": -116.3221547
+  },
+  {
+    "name": "CWC Palo Alto",
+    "latitude": 37.4114516,
+    "longitude": -122.1487816
+  },
+  {
+    "name": "CWC New York",
+    "latitude": 40.7521197,
+    "longitude": -73.992602
+  },
+  {
+    "name": "CWC Herndon",
+    "latitude": 38.9557859,
+    "longitude": -77.4134243
+  },
+  {
+    "name": "CWC - Fort Collins",
+    "latitude": 40.5248728,
+    "longitude": -105.0147784
+  },
+  {
+    "name": "CWC - Austin",
+    "latitude": 30.4597579,
+    "longitude": -97.7509977
+  },
+  {
+    "name": "CWC - Gurugram",
+    "latitude": 28.5036225,
+    "longitude": 77.0951738
+  },
+  {
+    "name": "CWC Mexico City",
+    "latitude": 19.3671104,
+    "longitude": -99.2583468
+  },
+  {
+    "name": "CWC Tokyo",
+    "latitude": 35.6325479,
+    "longitude": 139.74292
   }
 ]
