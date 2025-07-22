@@ -223,7 +223,7 @@ class DisasterNewsAnalyzer:
 
         except Exception as e:
                 print(f"Error fetching zoom earth data: {e}")
-
+    return results
 
 @router.get("/disaster-news", response_model=List[dict])
 def retrieve_disaster_news():
