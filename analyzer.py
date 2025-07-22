@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from typing import List
-from datetime import datetime, timedelta
+from datetime import datetime
 import feedparser
 import json
 import re
@@ -164,8 +164,8 @@ class DisasterNewsAnalyzer:
                 continue
         # return results
         try:
-            url = "https://zoom.earth/data/storms/?date=" + (datetime.now() - timedelta(days=0)).strftime('%Y-%m-%d')
-            # print(url)
+            url = "https://zoom.earth/data/storms/?date=" +(datetime.now()).strftime('%Y-%m-%d')
+            print(url)
             detail_url = "https://zoom.earth/data/storms/?id="
             headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
@@ -175,16 +175,17 @@ class DisasterNewsAnalyzer:
 
             if zoom_response.status_code == 200:
                 zoom_data = zoom_response.json()
+                print(zoom_data)
             else:
                 print(f"Failed to retrieve data. Status code: {zoom_response.status_code}")
 
             storm_id = [storm for storm in zoom_data['storms']]
 
-            # print(f"Storm IDs: {storm_id}")
+            print(f"Storm IDs: {storm_id}")
 
             trail = []
             for storm in storm_id:
-                # print(f"Processing storm ID: {storm}")
+                print(f"Processing storm ID: {storm}")
                 zoom_storm_data = requests.get(detail_url + storm, headers=headers).json()
                 track_count = 0
                 latitude = None
@@ -203,7 +204,7 @@ class DisasterNewsAnalyzer:
                             })
 
                 zoom_timestamp = zoom_storm_data.get("track")[track_count-1].get("date", None)
-
+                print("about to append in the list")
                 results.append({
                     "title": zoom_storm_data.get("title", "Storm"),
                     "description": f"{zoom_storm_data.get("description", "")} {zoom_storm_data.get("place", "unknown")}",
@@ -224,7 +225,7 @@ class DisasterNewsAnalyzer:
 
         except Exception as e:
                 print(f"Error fetching zoom earth data: {e}")
-                
+        print("time for the output ")
         return results
 
 @router.get("/disaster-news", response_model=List[dict])
