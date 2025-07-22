@@ -183,8 +183,8 @@ class DisasterNewsAnalyzer:
 
             print(f"Storm IDs: {storm_id}")
 
-            trail = []
             for storm in storm_id:
+                trail = []
                 print(f"Processing storm ID: {storm}")
                 zoom_storm_data = requests.get(detail_url + storm, headers=headers).json()
                 track_count = 0
