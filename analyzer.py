@@ -1,10 +1,11 @@
 from fastapi import APIRouter
 from typing import List
-from datetime import datetime
+from datetime import datetime, timedelta
 import feedparser
 import json
 import re
 from bs4 import BeautifulSoup
+import requests
 
 router = APIRouter()
 
@@ -223,7 +224,8 @@ class DisasterNewsAnalyzer:
 
         except Exception as e:
                 print(f"Error fetching zoom earth data: {e}")
-    return results
+                
+        return results
 
 @router.get("/disaster-news", response_model=List[dict])
 def retrieve_disaster_news():
