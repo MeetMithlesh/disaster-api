@@ -161,7 +161,69 @@ class DisasterNewsAnalyzer:
                         results.append(result)
             except Exception as e:
                 continue
-        return results
+        # return results
+        try:
+            url = "https://zoom.earth/data/storms/?date=" + (datetime.now() - timedelta(days=0)).strftime('%Y-%m-%d')
+            # print(url)
+            detail_url = "https://zoom.earth/data/storms/?id="
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+            }
+
+            zoom_response = requests.get(url, headers=headers)
+
+            if zoom_response.status_code == 200:
+                zoom_data = zoom_response.json()
+            else:
+                print(f"Failed to retrieve data. Status code: {zoom_response.status_code}")
+
+            storm_id = [storm for storm in zoom_data['storms']]
+
+            # print(f"Storm IDs: {storm_id}")
+
+            trail = []
+            for storm in storm_id:
+                # print(f"Processing storm ID: {storm}")
+                zoom_storm_data = requests.get(detail_url + storm, headers=headers).json()
+                track_count = 0
+                latitude = None
+                longitude = None
+                for track in zoom_storm_data.get("track", []):
+                    track_count = track_count+1
+                    coordinates = track.get("coordinates", [])
+                    latitude = coordinates[0] if coordinates else None
+                    longitude = coordinates[1] if coordinates else None
+                    trail.append({
+                        "latitude": latitude,
+                        "longitude": longitude,
+                        "timestamp": track.get("date", None),
+                        "description": track.get("description", None),
+                        "code": track.get("code", None)
+                            })
+
+                zoom_timestamp = zoom_storm_data.get("track")[track_count-1].get("date", None)
+
+                results.append({
+                    "title": zoom_storm_data.get("title", "Storm"),
+                    "description": f"{zoom_storm_data.get("description", "")} {zoom_storm_data.get("place", "unknown")}",
+                    "link": "https://zoom.earth",
+                    "timestamp": zoom_timestamp,
+                    "source": "Zoom Earth",
+                    "latitude": latitude,
+                    "longitude": longitude,
+                    "analysis": {
+                        "is_disaster": True,
+                        "disaster_type": zoom_storm_data.get("type", "unknown"),
+                        "disaster_category": "natural",
+                        "confidence": 0.5
+                    },
+                    "trail": trail
+                })
+
+
+        except Exception as e:
+                print(f"Error fetching zoom earth data: {e}")
+
 
 @router.get("/disaster-news", response_model=List[dict])
 def retrieve_disaster_news():
