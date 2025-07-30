@@ -193,8 +193,8 @@ class DisasterNewsAnalyzer:
                 for track in zoom_storm_data.get("track", []):
                     track_count = track_count+1
                     coordinates = track.get("coordinates", [])
-                    latitude = coordinates[0] if coordinates else None
-                    longitude = coordinates[1] if coordinates else None
+                    latitude = coordinates[1] if coordinates else None
+                    longitude = coordinates[0] if coordinates else None
                     trail.append({
                         "latitude": latitude,
                         "longitude": longitude,
