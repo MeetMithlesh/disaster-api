@@ -629,7 +629,7 @@ class DisasterNewsAnalyzer:
 
                 results.append({
                     "title": zoom_storm_data.get("title", "Storm"),
-                    "description": f"{zoom_storm_data.get("description", "")} {zoom_storm_data.get("place", "unknown")}",
+                    "description": f"{zoom_storm_data.get('description', '')} {zoom_storm_data.get('place', 'unknown')}",
                     "link": "https://zoom.earth",
                     "timestamp": zoom_timestamp,
                     "source": "Zoom Earth",
